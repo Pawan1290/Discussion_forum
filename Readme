@@ -1,0 +1,9 @@
+for running this website without any problem follow the following step which are 
+
+STEP1:Save Forum folder in htdocs which is under xampp folder.
+
+STEP2:Then run ForumDB.php file for creating database named as forum as http://localhost/Forum/ForumDB.php.
+
+STEP3:Run RegisterTable.php and CommentTable.php file in any sequence you want to do as http://localhost/Forum/RegisterTable.php and http://localhost/Forum/CommentTable.php.
+
+STEP4:Run Login.php file as http://localhost/Forum/Login.php. From here do onscreen activity.
